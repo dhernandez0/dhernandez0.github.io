@@ -1,1 +1,74 @@
-Hello
+---
+layout: null
+title: Daniel Hernandez Juarez
+description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Featured Post -->
+							<article class="post featured">
+
+                <p>I am a PhD student under the supervision of <a href="http://grupsderecerca.uab.cat/hpca4se/en/content/juan-carlos-moure-l%C3%B3pez" target="_blank">Dr. Juan Carlos Moure</a> and <a href="http://www.david-vazquez.com" target="_blank">Dr. David Vázquez</a>, at the <a href="http://www.uab.cat/departament/arquitectura-computadors-sistemes-operatius/" target="_blank">Computer Architecture and Operating Systems</a> (<a href="https://www.uab.cat" target="_blank">UAB</a> department) in Barcelona. The focus of my thesis is to improve 3D perception algorithms and adapt them to GPU devices. To this end, I studied of the Stixel World algorithm. I'm currently writing my PhD thesis.</p>
+
+                <p>I am an active member of the Huawei <a href="http://www.noahlab.com.hk" target="_blank">Noah's Ark lab</a> in London, where I work on color constancy (also known as auto white balance).</p>
+
+                <p>My research interest include:</p>
+
+                <ul>
+                  <li><p><strong>Computer Vision</strong>: Color Constancy, Computational Photography, Stixel World and 3D Perception.</p></li>
+                  <li><p><strong>Robotics</strong>: Autonomous Driving.</p></li>
+                  <li><p><strong>HPC</strong>: Parallel Computing, CUDA, GPGPU and Real-time Algorithms.</p></li>
+                </ul>
+
+							</article>
+
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
+
+	</body>
+</html>
