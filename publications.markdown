@@ -10,7 +10,6 @@ order: 2
 <table>
 <tbody>
 <tr>
-<td>{% include youtubePlayer.html id="5y3bU9WL984" %}</td>
 <td>
 <div>
 <div><strong>Slanted Stixels: A way to represent steep streets</strong></div>
@@ -31,10 +30,9 @@ order: 2
 <table>
 <tbody>
 <tr>
-<td>{% include youtubePlayer.html id="5y3bU9WL984" %}</td>
 <td>
 <div>
-<div><strong><a href="{{ site.url }}/slanted-stixels-representing-san-franciscos-steepest-streets-oral-bmvc2017/" target="_blank">Slanted Stixels: Representing San Francisco's Steepest Streets</a> <span style="color:red"><br/>(oral + best industrial paper)</span></strong></div>
+<div><strong><a href="{{ site.url }}/slanted-stixels-representing-san-franciscos-steepest-streets-oral-bmvc2017/" target="_blank">Slanted Stixels: Representing San Francisco's Steepest Streets</a> <span style="color:red">(oral)</span></strong></div>
 <div><i>D. Hernandez-Juarez*, L. Schneider*, A. Espinosa, D. Vázquez, A. M. López, U. Franke, M. Pollefeys and J. C. Moure</i></div>
 <div>
 
@@ -46,7 +44,6 @@ order: 2
 </div></td>
 </tr>
 <tr>
-<td>{% include youtubePlayer.html id="RgAkfbA0sSY" %}</td>
 <td>
 <div>
 <div><strong>GPU-accelerated real-time stixel computation</strong></div>
@@ -59,7 +56,6 @@ order: 2
 </div></td>
 </tr>
 <tr>
-<td>{% include youtubePlayer.html id="sKqQni5LhYo" %}</td>
 <td>
 <div>
 <div><strong>Embedded real-time stereo estimation via Semi-Global Matching on the GPU <span style="color:red">(oral)</span></strong></div>
