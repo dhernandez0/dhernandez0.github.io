@@ -1,7 +1,7 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
   <li class="{% if page.url contains '/publications/' %} active {% endif %}"><a href="{{ "/publications/" | absolute_url }}">Publications</a></li>
-  <li><a href="{{ "/downloads/myCV.pdf" | absolute_url }}" target="_blank">Resume</a></li>
+  <li class="{% if page.url contains '/resume/' %} active {% endif %}"><a href="{{ "/resume/" | absolute_url }}">Resume</a></li>
 </ul>
 
 <ul class="icons">
