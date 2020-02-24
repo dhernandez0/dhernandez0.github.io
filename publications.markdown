@@ -29,6 +29,21 @@ order: 2
 
 <table>
 <tbody>
+
+<tr>
+<td>
+<div>
+<div><strong>A Multi-Hypothesis Approach to Color Constancy</strong></div>
+<div><i>D. Hernandez-Juarez, S. Parisot, B. Busam, A. Leonardis, G. Slabaugh and S. McDonagh</i></div>
+<div>
+
+<strong>CVPR 2020</strong><br />
+<div>doi, pdf, slides, poster, video</div>
+
+</div>
+</div></td>
+</tr>
+
 <tr>
 <td>
 <div>
