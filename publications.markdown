@@ -38,7 +38,7 @@ order: 2
 <div>
 
 <strong>CVPR 2020</strong><br />
-<div>doi, pdf, slides, poster, video</div>
+<div>doi, <a href="https://arxiv.org/abs/2002.12896" target="_blank">pdf</a>, slides, poster, video</div>
 
 </div>
 </div></td>
