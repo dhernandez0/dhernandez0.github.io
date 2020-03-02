@@ -52,7 +52,7 @@ order: 2
 <div>
 
 <strong>BMVC 2017</strong><br />
-<div>doi, <a href="https://arxiv.org/abs/1707.05397" target="_blank">pdf</a>, <a href="{{ site.url }}/downloads/SlidesBMVC2017.pdf" target="_blank">slides</a>, <a href="{{ site.url }}/downloads/PosterBMVC2017.pdf" target="_blank">poster</a>, <a href="https://www.youtube.com/watch?v=5y3bU9WL984" target="_blank">video</a>, <a href="https://youtu.be/4CdWdKm1m9s" target="_blank">video presentation</a>, <a href="http://synthia-dataset.net/download-synthia-sf/" target="_blank">dataset</a></div>
+<div><a href="https://dx.doi.org/10.5244/C.31.87" target="_blank">doi</a>, <a href="https://arxiv.org/abs/1707.05397" target="_blank">pdf</a>, <a href="{{ site.url }}/downloads/SlidesBMVC2017.pdf" target="_blank">slides</a>, <a href="{{ site.url }}/downloads/PosterBMVC2017.pdf" target="_blank">poster</a>, <a href="https://www.youtube.com/watch?v=5y3bU9WL984" target="_blank">video</a>, <a href="https://youtu.be/4CdWdKm1m9s" target="_blank">video presentation</a>, <a href="http://synthia-dataset.net/download-synthia-sf/" target="_blank">dataset</a></div>
 <strong>Awarded as <a href="https://bmvc2017.london/awards/" target="_blank">best industrial paper</a></strong>
 
 </div>
