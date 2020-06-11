@@ -38,7 +38,7 @@ order: 2
 <div>
 
 <strong>CVPR 2020</strong><br />
-<div>doi, <a href="https://arxiv.org/abs/2002.12896" target="_blank">pdf</a>, slides, poster, video</div>
+<div>doi, <a href="https://arxiv.org/abs/2002.12896" target="_blank">pdf</a>, <a href="{{ site.url }}/downloads/SlidesCVPR2020.pdf" target="_blank">slides</a>, <a href="{{ site.url }}/downloads/PosterCVPR2020.pdf" target="_blank">poster</a>, <a href="https://youtu.be/3NjLnmFyXwI" target="_blank">video</a>, <a href="https://github.com/huawei-noah/multi_hyp_cc" target="_blank">code</a></div>
 
 </div>
 </div></td>
