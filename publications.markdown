@@ -33,7 +33,7 @@ order: 2
 <tr>
 <td>
 <div>
-<div><strong>A Multi-Hypothesis Approach to Color Constancy</strong></div>
+<div><strong><a href="http://www.noahlab.com.hk/#/news/5ee70c18a0c07a1a3855452d" target="_blank">A Multi-Hypothesis Approach to Color Constancy</a></strong></div>
 <div><i>D. Hernandez-Juarez, S. Parisot, B. Busam, A. Leonardis, G. Slabaugh and S. McDonagh</i></div>
 <div>
 
