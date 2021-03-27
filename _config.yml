@@ -1,7 +1,7 @@
 # Site
 title:              Daniel Hernandez Juarez
-bio:                'Research Engineer at Huawei Noahs Ark lab'
-description:        "Research Engineer at Huawei Noahs Ark lab"
+bio:                'Deep Learning Research Scientist at SLAMcore'
+description:        "Deep Learning Research Scientist at SLAMcore"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
