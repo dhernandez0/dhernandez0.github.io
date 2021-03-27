@@ -9,6 +9,21 @@ order: 2
 
 <table>
 <tbody>
+
+<tr>
+<td>
+<div>
+<div><strong>3D Perception with Slanted Stixels on GPU</strong></div>
+<div><i>D. Hernandez-Juarez, A. Espinosa, D. Vázquez, A. M. López and J. C. Moure</i></div>
+<div>
+
+<strong>TPDS 2021</strong><br />
+<div>doi, <a href="https://ieeexplore.ieee.org/document/9382880" target="_blank">pdf</a></div>
+
+</div>
+</div></td>
+</tr>
+
 <tr>
 <td>
 <div>
@@ -22,6 +37,7 @@ order: 2
 </div>
 </div></td>
 </tr>
+
 </tbody>
 </table>
 
@@ -38,7 +54,7 @@ order: 2
 <div>
 
 <strong>CVPR 2020</strong><br />
-<div>doi, <a href="https://arxiv.org/abs/2002.12896" target="_blank">pdf</a>, <a href="{{ site.url }}/downloads/SlidesCVPR2020.pdf" target="_blank">slides</a>, <a href="{{ site.url }}/downloads/PosterCVPR2020.pdf" target="_blank">poster</a>, <a href="https://youtu.be/3NjLnmFyXwI" target="_blank">video</a>, <a href="https://github.com/huawei-noah/multi_hyp_cc" target="_blank">code</a></div>
+<div><a href="https://doi.org/10.1109/CVPR42600.2020.00234" target="_blank">doi</a>, <a href="https://arxiv.org/abs/2002.12896" target="_blank">pdf</a>, <a href="{{ site.url }}/downloads/SlidesCVPR2020.pdf" target="_blank">slides</a>, <a href="{{ site.url }}/downloads/PosterCVPR2020.pdf" target="_blank">poster</a>, <a href="https://youtu.be/3NjLnmFyXwI" target="_blank">video</a>, <a href="https://github.com/huawei-noah/multi_hyp_cc" target="_blank">code</a></div>
 
 </div>
 </div></td>
@@ -65,7 +81,7 @@ order: 2
 <div><i>D. Hernandez-Juarez, A. Espinosa, J. C. Moure, D. Vázquez and A. M. López</i></div>
 <div>
 
-<strong>WACV2017</strong><br />
+<strong>WACV 2017</strong><br />
 <div><a href="https://doi.org/10.1109/WACV.2017.122" target="_blank">doi</a>, <a href="https://arxiv.org/abs/1610.04124" target="_blank">pdf</a>, <a href="{{ site.url }}/downloads/WACV17-Slides.pdf" target="_blank">slides</a>, <a href="{{ site.url }}/downloads/GTC17-Poster.pdf" target="_blank">poster (GTC2017)</a>, <a href="https://www.youtube.com/watch?v=RgAkfbA0sSY" target="_blank">video</a>, <a href="https://github.com/dhernandez0/stixels" target="_blank">code</a></div>
 </div>
 </div></td>
@@ -77,7 +93,7 @@ order: 2
 <div><i>D. Hernandez-Juarez, A. Chacón, A. Espinosa, D. Vázquez, J. C. Moure, and A. M. López</i></div>
 <div>
 
-<strong>ICCS2016</strong><br />
+<strong>ICCS 2016</strong><br />
 <div><a href="https://doi.org/10.1016/j.procs.2016.05.305" target="_blank">doi</a>, <a href="https://arxiv.org/abs/1610.04121" target="_blank">pdf</a>, <a href="{{ site.url }}/downloads/ICCS-2016.pdf" target="_blank">slides</a>, <a href="{{ site.url }}/downloads/poster-gtc16.pdf" target="_blank">poster (GTC2016)</a>, <a href="https://www.youtube.com/watch?v=sKqQni5LhYo" target="_blank">video</a>, <a href="https://www.youtube.com/watch?v=Olo0lPRyU5s" target="_blank">video 2</a>, <a href="https://github.com/dhernandez0/sgm" target="_blank">code</a><br />
 <strong>Poster awarded at <a href="http://bcw.ac.upc.edu/PUMPS2016/awards" target="_blank">PUMPS 2016</a></strong></div>
 </div>
