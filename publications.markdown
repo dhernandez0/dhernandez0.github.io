@@ -18,7 +18,7 @@ order: 2
 <div>
 
 <strong>TPDS 2021</strong><br />
-<div>doi, <a href="https://ieeexplore.ieee.org/document/9382880" target="_blank">pdf</a></div>
+<div><a href="https://doi.org/10.1109/TPDS.2021.3067836" target="_blank">doi</a>, <a href="https://ieeexplore.ieee.org/document/9382880" target="_blank">pdf</a></div>
 
 </div>
 </div></td>
