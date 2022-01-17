@@ -13,6 +13,20 @@ order: 2
 <tr>
 <td>
 <div>
+<div><strong>Self-Supervised Depth Completion for Active Stereo</strong></div>
+<div><i>F. Warburg, D. Hernandez-Juarez, J. J. Tarrio, A. Vakhitov, U. Bonde and P. F. Alcantarilla</i></div>
+<div>
+
+<strong>RA-L 2022</strong><br />
+<div>doi, <a href="https://arxiv.org/abs/2110.03234" target="_blank">pdf</a></div>
+
+</div>
+</div></td>
+</tr>
+
+<tr>
+<td>
+<div>
 <div><strong>3D Perception with Slanted Stixels on GPU</strong></div>
 <div><i>D. Hernandez-Juarez, A. Espinosa, D. Vázquez, A. M. López and J. C. Moure</i></div>
 <div>
