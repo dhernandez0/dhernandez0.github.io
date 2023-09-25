@@ -13,12 +13,12 @@ order: 2
 <tr>
 <td>
 <div>
-<div><strong>Self-Supervised Depth Completion for Active Stereo</strong></div>
+<div><strong><a href="https://www.slamcore.com/news/turbo-charging-depth-maps-with-ai/" target="_blank">Self-Supervised Depth Completion for Active Stereo</a></strong></div>
 <div><i>F. Warburg, D. Hernandez-Juarez, J. J. Tarrio, A. Vakhitov, U. Bonde and P. F. Alcantarilla</i></div>
 <div>
 
 <strong>RA-L 2022</strong><br />
-<div>doi, <a href="https://arxiv.org/abs/2110.03234" target="_blank">pdf</a></div>
+<div><a href="https://doi.org/10.1109/LRA.2022.3145512" target="_blank">doi</a>, <a href="https://arxiv.org/abs/2110.03234" target="_blank">pdf</a>, <a href="https://www.youtube.com/watch?v=mSuTyTz6npU" target="_blank">video</a>, <a href="https://github.com/slamcore/acdc" target="_blank">code</a>,  <a href="https://github.com/slamcore/acdc" target="_blank">dataset</a></div>
 
 </div>
 </div></td>

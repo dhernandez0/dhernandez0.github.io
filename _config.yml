@@ -1,7 +1,7 @@
 # Site
 title:              Daniel Hernandez Juarez
-bio:                'Deep Learning Research Scientist at SLAMcore'
-description:        "Deep Learning Research Scientist at SLAMcore"
+bio:                'Senior Research Engineer at Slamcore'
+description:        "Senior Research Engineer at Slamcore"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
