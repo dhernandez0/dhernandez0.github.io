@@ -17,7 +17,7 @@ order: 2
 <div><i>F. Warburg, D. Hernandez-Juarez, J. J. Tarrio, A. Vakhitov, U. Bonde and P. F. Alcantarilla</i></div>
 <div>
 
-<strong>RA-L 2022</strong><br />
+<strong>RA-L 2022 and ICRA 2022</strong><br />
 <div><a href="https://doi.org/10.1109/LRA.2022.3145512" target="_blank">doi</a>, <a href="https://arxiv.org/abs/2110.03234" target="_blank">pdf</a>, <a href="https://www.youtube.com/watch?v=mSuTyTz6npU" target="_blank">video</a>, <a href="https://github.com/slamcore/acdc" target="_blank">code</a>,  <a href="https://github.com/slamcore/acdc" target="_blank">dataset</a></div>
 
 </div>
