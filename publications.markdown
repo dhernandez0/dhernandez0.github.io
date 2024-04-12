@@ -83,7 +83,7 @@ order: 2
 
 <strong>BMVC 2017</strong><br />
 <div><a href="https://dx.doi.org/10.5244/C.31.87" target="_blank">doi</a>, <a href="https://arxiv.org/abs/1707.05397" target="_blank">pdf</a>, <a href="{{ site.url }}/downloads/SlidesBMVC2017.pdf" target="_blank">slides</a>, <a href="{{ site.url }}/downloads/PosterBMVC2017.pdf" target="_blank">poster</a>, <a href="https://www.youtube.com/watch?v=5y3bU9WL984" target="_blank">video</a>, <a href="https://youtu.be/4CdWdKm1m9s" target="_blank">video presentation</a>, <a href="http://synthia-dataset.net/download-synthia-sf/" target="_blank">dataset</a></div>
-<strong>Awarded as <a href="https://bmvc2017.london/awards/" target="_blank">best industrial paper</a></strong>
+<strong>Awarded as <a href="https://danihernandez.eu/images/bmvc2017_best_industrial_paper_award.jpg" target="_blank">best industrial paper</a></strong>
 
 </div>
 </div></td>
@@ -109,7 +109,7 @@ order: 2
 
 <strong>ICCS 2016</strong><br />
 <div><a href="https://doi.org/10.1016/j.procs.2016.05.305" target="_blank">doi</a>, <a href="https://arxiv.org/abs/1610.04121" target="_blank">pdf</a>, <a href="{{ site.url }}/downloads/ICCS-2016.pdf" target="_blank">slides</a>, <a href="{{ site.url }}/downloads/poster-gtc16.pdf" target="_blank">poster (GTC2016)</a>, <a href="https://www.youtube.com/watch?v=sKqQni5LhYo" target="_blank">video</a>, <a href="https://www.youtube.com/watch?v=Olo0lPRyU5s" target="_blank">video 2</a>, <a href="https://github.com/dhernandez0/sgm" target="_blank">code</a><br />
-<strong>Poster awarded at <a href="http://bcw.ac.upc.edu/PUMPS2016/awards" target="_blank">PUMPS 2016</a></strong></div>
+<strong>Poster awarded at <a href="https://web.archive.org/web/20210303135849/http://bcw.ac.upc.edu/PUMPS2016/awards" target="_blank">PUMPS 2016</a></strong></div>
 </div>
 </div></td>
 </tr>
